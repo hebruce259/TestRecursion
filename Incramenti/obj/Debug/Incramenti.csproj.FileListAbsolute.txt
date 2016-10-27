@@ -1,0 +1,6 @@
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\bin\Debug\Incramenti.exe.config
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\bin\Debug\Incramenti.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\bin\Debug\Incramenti.pdb
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\obj\Debug\Incramenti.csprojResolveAssemblyReference.cache
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\obj\Debug\Incramenti.exe
+c:\users\sonia blake\documents\visual studio 2015\Projects\Incramenti\Incramenti\obj\Debug\Incramenti.pdb
